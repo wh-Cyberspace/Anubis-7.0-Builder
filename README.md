@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/wh-Cyberspace/Anubis-7.0-Builder/main/img/header.png" height="170"><br>
+<img src="https://github.com/wh-Cyberspace/Anubis-7.0-Builder/blob/main/img/header.png?raw=true" height="170"><br>
   
 <h1 align="center">  WH Anubis7.0 Builder</h1> 
 
