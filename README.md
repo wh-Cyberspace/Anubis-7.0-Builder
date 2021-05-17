@@ -42,7 +42,7 @@ About this item future
 
 # 🔑 LICENSE / Activation KEY
 
-Price : $60/-
+Price : $110/-
 
 ☆ Buy LICENSE Key IN Website [Here ](https://whcyberspace.com "LICENSE")
 
