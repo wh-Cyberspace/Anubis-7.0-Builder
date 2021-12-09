@@ -90,7 +90,7 @@ And Run
 [![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Anubis-7.0-Builder/main/img/img3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
 # ℹ INFO
-Framwork version : 1.0.2
+Framwork version : 2.0.1.2
 
 POWER BY >> WH-Cyberspace  
 
