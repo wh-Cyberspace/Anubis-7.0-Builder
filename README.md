@@ -42,18 +42,18 @@ About this item future
 
 # 🔑 LICENSE / Activation KEY
 
-Price : $110/-
 
 ☆ Buy LICENSE Key IN Website [Here ](https://whcyberspace.com "LICENSE")
 
 or
 
-Buy LICENSE Key direct In Telegram  [Here ](http://t.me/whcyberspace "LICENSE")
+🛒 Buy LICENSE Key direct In Telegram  [Here ](http://t.me/whcyberspace "LICENSE")
 
 
 <br>
 
 ### How To Use ?
+
 
 
 [+] Download Zip (https://whcyberspace.com)
