@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service android:settingsActivity="com.example.root.myapplication.MainActivity" android:accessibilityEventTypes="typeWindowContentChanged|typeWindowStateChanged" android:accessibilityFlags="flagDefault|flagIncludeNotImportantViews|flagReportViewIds" android:canRetrieveWindowContent="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

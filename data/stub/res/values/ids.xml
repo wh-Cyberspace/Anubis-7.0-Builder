@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="activity_activ_all_numbers" />
+    <item type="id" name="activity_alert" />
+    <item type="id" name="activity_getsws" />
+    <item type="id" name="activity_go_adm" />
+</resources>

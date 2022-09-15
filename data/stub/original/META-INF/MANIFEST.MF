@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA1-Digest: ABNs3gnpC8sGmCFfaXjkj2YiQb0=
+
+Name: res/layout/uogqz.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/mipmap-xhdpi/ic_launcher.png
+SHA1-Digest: rkuyqmERdr2UR2VEgMufiI2ERWg=
+
+Name: res/layout/khay.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/msbaqmwj.xml
+SHA1-Digest: bg49PL672ubrTrL/g76IeNVcMec=
+
+Name: res/layout/cxsxkzvhpszz.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/gvole.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/uppemzfldmy.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/fsh.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/hdewequglvxw.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/struup.xml
+SHA1-Digest: bg49PL672ubrTrL/g76IeNVcMec=
+
+Name: res/mipmap-mdpi/ic_launcher.png
+SHA1-Digest: rkuyqmERdr2UR2VEgMufiI2ERWg=
+
+Name: res/mipmap-xxxhdpi/ic_launcher.png
+SHA1-Digest: rkuyqmERdr2UR2VEgMufiI2ERWg=
+
+Name: res/layout/bqmazs.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/dffuhhyqi.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/drawable/qq.jpg
+SHA1-Digest: KvTAT1A/RXUyfUPA6WkqplZWTRA=
+
+Name: res/mipmap-xxhdpi/ic_launcher.png
+SHA1-Digest: rkuyqmERdr2UR2VEgMufiI2ERWg=
+
+Name: res/layout/loevlioof.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/ipmxswvs.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/xml/mihaf.xml
+SHA1-Digest: HNR2WMW2MQl2Zi1aeg5czc4gjEE=
+
+Name: res/mipmap-hdpi/ic_launcher.png
+SHA1-Digest: rkuyqmERdr2UR2VEgMufiI2ERWg=
+
+Name: res/drawable/im.png
+SHA1-Digest: Y2nO96F2ievfagLnFnBsXy82Yog=
+
+Name: resources.arsc
+SHA1-Digest: YmJSsX3M/bVanWJNiz6+XUY5Bn4=
+
+Name: classes.dex
+SHA1-Digest: 53h/lWUO6iOdwco3eLp6Q6yZGvs=
+
+Name: res/layout/etiadhbtsl.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
+Name: res/layout/myvauvdbuzuyflia.xml
+SHA1-Digest: IvK2pFT4DekkY1ZrM4h0Enqi9uQ=
+
